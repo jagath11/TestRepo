@@ -2,7 +2,9 @@ function add(a,b){
 	return a+b;
 }
 
-function substract(b,c){
+
+//Adding Comment - Difference of two numbers
+function substract(a,b){
 	return a-b;
 }
  
